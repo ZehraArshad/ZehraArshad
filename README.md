@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning how to manage and model complex data. My progress here :arrow_forward: https://github.com/ZehraArshad/data-engineering-concepts
 - 👯 I’m looking to collaborate on a project related to data science
 - 💬 Ask me about data analysis
 - 📫 How to reach me: https://www.linkedin.com/in/zehraarshad/
